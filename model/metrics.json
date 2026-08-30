@@ -1,0 +1,34 @@
+{
+  "baseline_formal_cv_auc": 0.4985,
+  "alternative_cv_auc": 0.7817,
+  "alternative_test_auc": 0.7887,
+  "auc_lift_vs_baseline": 0.2833,
+  "default_rate": 0.3762,
+  "classification_report": {
+    "0": {
+      "precision": 0.7729468599033816,
+      "recall": 0.8205128205128205,
+      "f1-score": 0.7960199004975125,
+      "support": 1560.0
+    },
+    "1": {
+      "precision": 0.6682464454976303,
+      "recall": 0.6,
+      "f1-score": 0.6322869955156951,
+      "support": 940.0
+    },
+    "accuracy": 0.7376,
+    "macro avg": {
+      "precision": 0.720596652700506,
+      "recall": 0.7102564102564102,
+      "f1-score": 0.7141534480066039,
+      "support": 2500.0
+    },
+    "weighted avg": {
+      "precision": 0.7335795040868192,
+      "recall": 0.7376,
+      "f1-score": 0.7344563282243491,
+      "support": 2500.0
+    }
+  }
+}
